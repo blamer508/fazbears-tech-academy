@@ -1,0 +1,7 @@
+{
+  "name": "Fazbear's Tech Academy",
+  "description": "An educational computer hardware quiz application with a scary twist: get a question wrong and face the animatronics. Learn about CPUs, RAM, and GPUs while surviving the night.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
