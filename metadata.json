@@ -1,6 +1,6 @@
 {
   "name": "Fazbear's Tech Academy",
-  "description": "An educational computer hardware quiz application with a scary twist: get a question wrong and face the animatronics. Learn about CPUs, RAM, and GPUs while surviving the night.",
+  "description": "An educational computer hardware quiz application with a scary twist. Now featuring multiple endings, a cutscene previewer, and Gemini-powered Cloud Backup for your accounts.",
   "requestFramePermissions": [
     "camera"
   ]
