@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "functions": {
+    "api/server.ts": {
+      "maxDuration": 10
+    }
+  },
+  "routes": [
+    {
+      "src": "/socket.io/(.*)",
+      "dest": "api/server.ts"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "api/server.ts"
+    }
+  ]
+}

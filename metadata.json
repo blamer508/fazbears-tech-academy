@@ -1,0 +1,7 @@
+{
+  "name": "Fazbear's Tech Academy",
+  "description": "An educational computer hardware quiz application with a scary twist. Now featuring multiple endings, a cutscene previewer, and Gemini-powered Cloud Backup for your accounts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
